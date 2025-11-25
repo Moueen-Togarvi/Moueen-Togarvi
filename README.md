@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Moeen Togarvi! 👋
 
 🚀 **Welcome to my GitHub profile!**  
-🎯 I’m a developer passionate about creating modern, scalable, and interactive web experiences. I specialize in **Svelte**, **Django**, **Tailwind CSS**, **3D Web Experiences**, and **Node.js**.  
+🎯 I’m a developer passionate about creating modern, scalable, and interactive web experiences. I specialize in **Svelte**, **Django**, **Tailwind CSS** and**3D Web Experiences**.
 💡 Building solutions that bridge creativity and functionality is my ultimate goal.
 
 ---
@@ -26,7 +26,6 @@
 
 ### 🖥️ **Backend**
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 📦 **Other Tools**
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
